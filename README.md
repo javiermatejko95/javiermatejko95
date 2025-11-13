@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Javier Matejko  
-**Unity Developer • Gameplay Programmer • Mobile Games**
+**Unity Developer • Gameplay Programmer**
 
 I’m a game developer passionate about creating fun, polished, and player-centric experiences.  
 I specialize in gameplay programming, prototyping, tools development, and mobile games using Unity.
