@@ -1,41 +1,50 @@
 # 👋 Hi, I'm Javier Matejko  
-**Unity Developer • Gameplay Programmer**
+**Software Engineer • .NET Developer • Game & Interactive Systems**
 
-I’m a game developer passionate about creating fun, polished, and player-centric experiences.  
-I specialize in gameplay programming, prototyping, tools development, and mobile games using Unity.
+I’m a software engineer with a strong background in real-time systems and game development, focused on building clean, scalable, and maintainable software.
+I work mainly with .NET / C#, applying solid engineering principles across backend services, tools, and interactive applications.
 
 ---
 
 ## 🚀 About Me
-- 🎮 **6+ years working with Unity**, building mobile and simulation games.  
-- 🛠️ Focused on clean architecture, scalable systems, and rapid feature iteration.  
-- 🌱 Constantly learning — currently exploring Shader Graph, performance optimization, and game feel techniques.  
-- 🌎 From Argentina, currently based in Brazil.  
-- 🤝 I love collaborating with designers, artists, and other programmers to bring ideas to life.
+- 💻 **6+ years of professional experience with C# and .NET**, including Unity-based products, backend integrations, and tooling.
+- 🧠 Strong focus on **clean architecture**, scalability, and long-term maintainability.
+- ⚙️ Experienced in **event-driven systems**, async workflows, and state-based logic. 
+- 🌱 Continuously learning — currently deepening knowledge in .NET backend development, **performance optimization**, and system design.
+- 🌎 From Argentina, currently based in Brazil.
+- 🤝 Enjoy collaborating in cross-functional teams with designers, artists, product owners, and engineers.
 
 ---
 
 ## 🔧 Tech Stack & Skills
-### **Game Development**
-- Unity • C#  
-- Gameplay Systems • Tools/Editor Extensions  
-- Mobile Development (iOS/Android)  
+### **Software Engineering**
+- C# • .NET • ASP.NET (learning/active use)
+- REST APIs • Authentication & Authorization
+- Async/Await • Multithreading concepts
 - UI/UX Implementation  
-- Level Design Support
+- Object-Oriented Programming (OOP)
 
 ### **Architecture & Tools**
 - SOLID • MVC • Event-driven architecture  
-- Addressables • ScriptableObjects  
-- Coroutines, Async/Await, State Machines
+- State Machines
+- Clean & modular system design
 
-### **Graphics & Performance**
-- Shader Graph  
-- Profiling & Optimization  
-- Rendering basics
+### **Game & Interactive Development**
+- Unity
+- Gameplay Systems • Tools & Editor Extensions
+- Mobile Development (iOS / Android)
+- UI/UX Implementation
+- Prototyping & rapid iteration
 
-### **Other**
-- Git • GitHub • GitFlow  
-- REST APIs • AWS Cognito  
+### **Performance & Optimization**
+- Profiling & optimization  
+- Memory management awareness
+- Rendering & real-time performance basics
+
+### **Tools & Platforms**
+- Git • GitHub • GitFlow
+- AWS Cognito
+- Addressables • ScriptableObjects
 - Localization systems
 
 ## 📫 Contact
@@ -46,4 +55,5 @@ I specialize in gameplay programming, prototyping, tools development, and mobile
 ---
 
 ## ❤️ Thanks for stopping by!
-If you want to collaborate, feel free to reach out — I’m always open to new opportunities, ideas, and cool game dev chats.
+I'm open to opportunities as a Software Engineer, .NET Developer, or Gameplay Programmer.
+If you're building something interesting — games, tools, or backend systems — feel free to reach out!
