@@ -49,7 +49,7 @@ I work mainly with .NET / C#, applying solid engineering principles across backe
 
 ## 📫 Contact
 - 🌐 **Portfolio:** https://jimgames.itch.io  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/javier-ignacio-matejko-8b529a139/ 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/javier-ignacio-matejko/ 
 - 📧 **Email:** javiermatejko@hotmail.com
 
 ---
