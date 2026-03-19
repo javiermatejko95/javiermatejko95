@@ -24,6 +24,13 @@ I work mainly with .NET / C#, applying solid engineering principles across backe
 - UI/UX Implementation  
 - Object-Oriented Programming (OOP)
 
+### Web Development
+
+- HTML • CSS • JavaScript
+- Responsive Design
+- DOM Manipulation
+- Basic frontend architecture & structure
+
 ### **Architecture & Tools**
 - SOLID • MVC • Event-driven architecture  
 - State Machines
